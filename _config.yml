@@ -1,0 +1,35 @@
+name: Powered by Tea&trade;
+description: Powered by Tea&trade;
+meta_description: "Robert Lee-Cann - Powered by Tea"
+
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'http://lee-cann.com'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'http://lee-cann.com/'
+author:         'Robert Lee-Cann'
+authorTwitter:  'leeky'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post

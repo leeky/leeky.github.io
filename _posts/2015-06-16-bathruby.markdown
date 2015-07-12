@@ -1,0 +1,40 @@
+---
+title:  "BathRuby"
+date:   2015-06-18 10:12:00
+---
+
+![BathRuby attendees waving at Tenderlove](/assets/images/waving-at-tenderlove.jpg)
+
+A couple of weeks ago, the [Spicerack] development team descended on the city of Bath for the [BathRuby] conference. As well as being a great learning experience, it was the first time all of us were together, since the merger between Spicerack and Stylefoundry (where I am based).
+
+There were six ‘headline’ speakers in all, with ‘lightning talks’ (short, five minute presentations), spread throughout the day. My highlights were as follows:
+
+* **[Linda Liukas]** - Founder of Rails Girls, an organisation whose aim to encourage more women to get interested in programming. She spent last summer teaching programming to young children, through play and experimentation.
+
+She feels that there’s too much focus on teaching logic, rather than just exploring and having fun. Too much technology appears ‘magic’ and that makes it appear impenetrable.
+
+* **[Ben Orenstein]** - Runs the upcase.com learning site, which is an off-shoot of well-respected development company, Thoughtbot. Ben worked through some refactoring techniques, live on-screen, with input from audience members - impressive stuff!
+
+NB: Refactoring is the art of taking existing code and rewriting it in a more logical and tidier way. This makes it much easier to reuse and expand upon.
+
+* **[Tom Stuart]** - Tom explained how much mathematics we do in our heads without thinking, and how to use this same thought process when writing code.
+
+Tom also had the best way to explain Pythagoras’ Theorem I’d ever seen. Something, 80s kids TV presenter, Johnny Ball, would have been proud of!
+
+* **[Sandi Metz]** - Sandi is hugely-respected in the Ruby community and after many years of programming, consulting and teaching others, has a real knack of explaining things.
+
+Her talk had several “That’s obvious! Why didn’t we think of that?” moments, and gave me a lot to think about.
+
+* **[Sonic Pi]** - As I said earlier, there were a number of really great lightning talks, but one stood above the rest. Xavier Riley entertained us with live-coded music generated through ‘Sonic Pi’, a software synthesiser that is programmed in Ruby!
+
+All in all, it was a thoroughly enjoyable day.  I’d like to personally thank the organisers, Simon Starr, Andrew Nesbitt and Jordan Elver for their hard work. I’ve run several events myself, so have an extra appreciation for the work involved!
+
+Hopefully this will be the first of many BathRuby events - same again next year..?
+
+[Spicerack]: http://spicerack.co.uk/
+[BathRuby]: http://2015.bathruby.org/
+[Linda Liukas]: http://www.confreaks.tv/videos/bathruby2015-principles-of-play
+[Ben Orenstein]: http://www.confreaks.tv/videos/bathruby2015-tbc
+[Tom Stuart]: http://www.confreaks.tv/videos/bathruby2015-a-lever-for-the-mind
+[Sandi Metz]: http://www.confreaks.tv/videos/bathruby2015-nothing-is-something
+[Sonic Pi]: https://youtu.be/Jp0VKD_7pmw?t=10m5s
