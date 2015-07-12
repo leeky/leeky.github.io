@@ -9,12 +9,12 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://leeky.github.io'
+domain_name: 'http://blog.lee-cann.com'
 google_analytics: 'UA-28169686-1'
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://leeky.github.io/'
+url:            'http://blog.lee-cann.com/'
 author:         'Robert Lee-Cann'
 authorTwitter:  'leeky'
 
