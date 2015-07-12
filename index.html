@@ -1,6 +1,18 @@
 ---
 profile: true
 ---
+{% assign post = site.posts.first %}
+{% assign content = post.content %}
+
+<article class="post">
+    <header>
+        <h1>{{ post.title }}</h1>
+        <h2 class="headline">{{ post.date | date:"%B %-d, %Y" }}</h2>
+    </header>
+    <section id="post-body">
+        {{content}}
+    </section>
+</article>
 
 {% include post-list.html %}
 {% include footer.html %}

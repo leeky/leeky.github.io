@@ -3,6 +3,8 @@ title:  "Responsive Day Out in Brighton"
 date:   2015-07-01 15:35:00
 ---
 
+![Responsive Day Out](/assets/images/responsiveconf.jpg)
+
 I was recently lucky enough to attend the Responsive Day Out conference in sunny Brighton. Unlike a lot of events in our industry, this was and very affordable and pared-down affair. But the lack of badges and goody bags was more than made up by the varied talks from the speakers!
 
 The conference had an unusual format - four sessions with a common theme, which comprised a 20-25 minute talk from three of the speakers, followed by a Q&A between them and our host, [Jeremy Keith](http://www.adactio.com/).
