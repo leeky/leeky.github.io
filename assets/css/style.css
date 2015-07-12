@@ -249,6 +249,15 @@ em, i { font-style: italic; }
     display: inline-block;
 }
 
+.post p > code {
+  background-color: #eee;
+  border: 1px #ccc solid;
+  padding: 2px 5px;
+  font-weight: bold;
+  font-size: 80%;
+  font-family: monaco, courier, fixed;
+}
+
 #post-list h2 {
   font: normal 17px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
   color: #aaa;
